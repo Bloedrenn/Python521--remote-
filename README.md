@@ -9,3 +9,8 @@ pip install django
 ```bash
 npm install --save react react-dom
 ```
+
+## Чтобы вывести сообщение Hello в косоли
+```python
+print("Hello")
+```
